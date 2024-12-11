@@ -6,7 +6,7 @@
 //
 
 import Foundation
-
+/*
 print("p1.problem1")
 p1.problem1()
 print("\n")
@@ -29,5 +29,20 @@ print("\n")
 
 print("p3.problem1part2")
 p3.problem1part2()
+ 
+print("p4.problem1")
+p4.problem1()
+ print("\n")
 
+print("p4.problem1part2")
+p4.problem1part2()
+print("\n")
 
+print("p5.problem1")
+p5.problem1()
+print("\n")
+ */
+
+print("p5.problem1part2")
+p5.problem1part2()
+print("\n")
